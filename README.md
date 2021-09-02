@@ -18,3 +18,6 @@ https://docs.microsoft.com/pt-br/dotnet/csharp/fundamentals/tutorials/oop#:~:tex
 # Vídeo que eu aprendi um pouco mais sobre teste unitário de forma simples
 https://www.youtube.com/watch?v=_o3I8ExZ0O8
 
+# Vídeo explicando como eu fiz o código, no youtube
+https://www.youtube.com/watch?v=XnFLgCkAyEk
+
